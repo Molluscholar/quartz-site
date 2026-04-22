@@ -16,7 +16,7 @@ title: 活動履歴
 - 2025/12/13 激†NERD
 - 2025/11/29 Alliél (MolluscholarRemix)
 - 2025/11/21 臨海, 歯車は詠う
-- 2025/10/26 LUXARION_Original Soundtrack M3 2025 Autumn Demo）
+- 2025/10/26 LUXARION Original Soundtrack M3 2025 Autumn Demo）
 - 2025/09/27 thi
 - 2025/08/23 CH4NGE / Giga - DTM鯖Remix合作
 - 2025/08/20 strega
