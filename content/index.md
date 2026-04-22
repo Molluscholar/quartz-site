@@ -1,8 +1,8 @@
 ---
-title: Molluscholar
+title: Home
 ---
 
-# home
+# About
 
 創作・音楽・ノート
 
