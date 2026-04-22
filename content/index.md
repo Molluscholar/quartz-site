@@ -1,15 +1,22 @@
 ---
-title: home
+title: Molluscholar
 ---
 
-# Molluscholar.dev
+# home
 
 創作・音楽・ノート
 
-<h2>Links</h2>
+# Links
 <div class="link-list">
-    <a class="link-item" href="https://bsky.app/profile/molluscholar.dev" target="_blank" rel="noreferrer">noopener noreferrer
-    <span class="icon">
-    <span class="icon">🦋</span>
+    <a class="link-item" href="https://bsky.app/profile/molluscholar.dev" target="_blank" rel="noopener noreferrer">
+     <img
+      class="icon-svg"
+      src="https://cdn.simpleicons.org/bluesky"
+      alt="Bluesky"
+      width="18"
+      height="18"
+    />
     <span class="label">Bluesky</span>
-  </a>
+    </a>
+
+</div>
