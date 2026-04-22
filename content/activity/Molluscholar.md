@@ -40,7 +40,7 @@ title: 活動履歴
 - 2024/04/03 IntroHope Vol.7
 - 2024/03/15 trefoil (grayscaled)
 - 2024/02/23 【DTM鯖合作】ロウワー
-- 2024/2/10 Rapid ERuption vol.1
+- 2024/02/10 Rapid ERuption vol.1
 - 2024/01/28 2023's VOCALIFE
 - 2024/01/17 NEXTLOID Vol.01
 - 2023/12/08 第十四回 創奏音楽祭
