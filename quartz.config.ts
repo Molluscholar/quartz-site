@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "ja-JP",
     baseUrl: "molluscholar.dev",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
