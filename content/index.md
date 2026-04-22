@@ -2,9 +2,16 @@
 title: Home
 ---
 
+<style>
+.page .center article {
+  font-size: 1.08rem;
+  line-height: 1.8;
+}
+</style>
+
 # About
 
-創作・音楽・ノート
+- Molluscholar（なんたいどうぶつ）
 
 # Links
 <div class="link-list">
