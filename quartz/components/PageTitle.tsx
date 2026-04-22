@@ -17,10 +17,26 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
 }
 
 PageTitle.css = `
+.page > #quartz-body .sidebar.left > .page-title + * {
+  margin-top: 1rem;
+}
+
+.page > #quartz-body .center > article {
+  margin-top: 1rem;
+}
+
+.page > #quartz-body .sidebar.right > *:first-child {
+  margin-top: 1rem;
+}
+
 .page-title {
   font-size: 1.75rem;
   margin: 0;
   font-family: var(--titleFont);
+  position: fixed;
+  top: 1rem;
+  left: max(1rem, calc((100vw - 1500px) / 2 + 2rem));
+  z-index: 50;
 }
 
 .page-title-link {
@@ -31,10 +47,55 @@ PageTitle.css = `
 
 .page-title-logo {
   display: block;
-  width: min(100%, 15rem);
+  width: clamp(16rem, 26vw, 26rem);
   height: auto;
   filter: brightness(0) saturate(100%);
   opacity: 0.95;
+}
+
+@media all and (max-width: 1199px) {
+  .page > #quartz-body .sidebar.left > .page-title + * {
+    margin-top: 0.85rem;
+  }
+
+  .page > #quartz-body .center > article {
+    margin-top: 0.85rem;
+  }
+
+  .page > #quartz-body .sidebar.right > *:first-child {
+    margin-top: 0.85rem;
+  }
+
+  .page-title {
+    left: 1rem;
+  }
+
+  .page-title-logo {
+    width: clamp(13.5rem, 30vw, 20rem);
+  }
+}
+
+@media all and (max-width: 800px) {
+  .page > #quartz-body .sidebar.left > .page-title + * {
+    margin-top: 0.7rem;
+  }
+
+  .page > #quartz-body .center > article {
+    margin-top: 0.7rem;
+  }
+
+  .page > #quartz-body .sidebar.right > *:first-child {
+    margin-top: 0.7rem;
+  }
+
+  .page-title {
+    top: 0.75rem;
+    left: 0.75rem;
+  }
+
+  .page-title-logo {
+    width: clamp(11rem, 50vw, 15rem);
+  }
 }
 
 [saved-theme="dark"] .page-title-logo {
