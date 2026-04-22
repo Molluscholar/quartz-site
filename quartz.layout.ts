@@ -10,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "Bluesky":"https://bsky.app/profile/molluscholar.dev",
       "SoundCloud": "https://soundcloud.com/molluscholar",
-      // GitHub: "https://github.com/Molluscholar",
+      "GitHub": "https://github.com/Molluscholar",
     },
   }),
 }
