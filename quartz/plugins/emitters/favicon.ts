@@ -9,7 +9,12 @@ export const Favicon: QuartzEmitterPlugin = () => ({
   name: "Favicon",
   async *emit({ argv }) {
     const iconPath = resolve(process.cwd(), "quartz", "static", "iconmoll.png")
-    const faviconContent = sharp(iconPath).resize(48, 48).toFormat("png")
+    const faviconContent = sharp(iconPath)
+      .resize(48, 48, {
+        fit: "contain",
+        background: { r: 0, g: 0, b: 0, alpha: 0 },
+      })
+      .toFormat("png")
 
     yield write({
       ctx: { argv } as BuildCtx,
