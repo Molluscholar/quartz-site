@@ -12,7 +12,7 @@ title: Home
     href="https://soundcloud.com/molluscholar" target="_blank" rel="noopener noreferrer">
     <img
       class="icon-svg"
-      src="https://cdn.simpleicons.org/soundcloud"
+      src="./assets/icons/soundcloud.svg"
       alt="Soundcloud"
       width="18"
       height="18"
@@ -23,7 +23,7 @@ title: Home
     href="https://x.com/Molluscholar" target="_blank" rel="noopener noreferrer">
      <img
       class="icon-svg"
-      src="https://cdn.simpleicons.org/x"
+      src="./assets/icons/soundcloud.svg"
       alt="X"
       width="18"
       height="18"
@@ -34,7 +34,7 @@ title: Home
     href="https://bsky.app/profile/molluscholar.dev" target="_blank" rel="noopener noreferrer">
      <img
       class="icon-svg"
-      src="https://cdn.simpleicons.org/bluesky"
+      src="./assets/icons/soundcloud.svg"
       alt="Bluesky"
       width="18"
       height="18"
@@ -51,7 +51,7 @@ E-Mail or DM (X, Bluesky)
     href="mailto:contact@molluscholar.dev" target="_blank" rel="noopener noreferrer">
     <img
       class="icon-svg"
-      src="https://cdn.simpleicons.org/gmail"
+      src="./assets/icons/soundcloud.svg"
       alt="Mail"
       width="18"
       height="18"
