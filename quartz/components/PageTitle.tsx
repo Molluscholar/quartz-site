@@ -17,18 +17,6 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
 }
 
 PageTitle.css = `
-.page > #quartz-body .sidebar.left > .page-title + * {
-  margin-top: 1rem;
-}
-
-.page > #quartz-body .center > article {
-  margin-top: 1rem;
-}
-
-.page > #quartz-body .sidebar.right > *:first-child {
-  margin-top: 1rem;
-}
-
 .page-title {
   font-size: 1.75rem;
   margin: 0;
@@ -54,18 +42,6 @@ PageTitle.css = `
 }
 
 @media all and (max-width: 1199px) {
-  .page > #quartz-body .sidebar.left > .page-title + * {
-    margin-top: 0.85rem;
-  }
-
-  .page > #quartz-body .center > article {
-    margin-top: 0.85rem;
-  }
-
-  .page > #quartz-body .sidebar.right > *:first-child {
-    margin-top: 0.85rem;
-  }
-
   .page-title {
     left: 1rem;
   }
@@ -76,18 +52,6 @@ PageTitle.css = `
 }
 
 @media all and (max-width: 800px) {
-  .page > #quartz-body .sidebar.left > .page-title + * {
-    margin-top: 0.7rem;
-  }
-
-  .page > #quartz-body .center > article {
-    margin-top: 0.7rem;
-  }
-
-  .page > #quartz-body .sidebar.right > *:first-child {
-    margin-top: 0.7rem;
-  }
-
   .page-title {
     top: 0.75rem;
     left: 0.75rem;

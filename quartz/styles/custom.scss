@@ -2,6 +2,45 @@
 
 // put your custom CSS here!
 
+// PageTitle以外のレイアウト位置をここで一括管理する
+// 左右サイドバーと中央カラムを、基準値から同じ量だけ下げる
+.page > #quartz-body .sidebar.left,
+.page > #quartz-body .sidebar.right {
+  padding-top: 7.25rem;
+}
+
+.page > #quartz-body .page-header {
+  margin-top: 7.25rem;
+}
+
+@media all and (max-width: 1199px) {
+  .page > #quartz-body .sidebar.left {
+    padding-top: 6.75rem;
+  }
+
+  .page > #quartz-body .sidebar.right {
+    padding-top: 1.25rem;
+  }
+
+  .page > #quartz-body .page-header {
+    margin-top: 6.75rem;
+  }
+}
+
+@media all and (max-width: 800px) {
+  .page > #quartz-body .sidebar.left {
+    padding-top: 2.9rem;
+  }
+
+  .page > #quartz-body .sidebar.right {
+    padding-top: 1rem;
+  }
+
+  .page > #quartz-body .page-header {
+    margin-top: 0.9rem;
+  }
+}
+
 .link-list {
   display: grid; // リンク全体をグリッドレイアウトで並べる
   gap: 0.75rem; // 各リンクカードの上下間隔を設定する
