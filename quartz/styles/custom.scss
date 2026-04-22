@@ -21,6 +21,8 @@
 
   text-decoration: none; // 下線を消してボタンらしい見た目にする
   color: var(--dark); // 文字色を通常テーマの本文色に合わせる
+  --accent-color: var(--secondary); // ホバー時に使うアクセント色の初期値を設定する
+  --icon-hover-filter: brightness(0) saturate(100%); // ホバー時アイコン色の初期値を設定する
   background: var(--light); // 背景色を通常テーマの明るい色にする
   font-size: 1.08rem; // 文字サイズを少し大きくして読みやすくする
   transition: transform 0.15s ease, background-color 0.15s ease, border-color 0.15s ease; // ホバー時の変化をなめらかにする
@@ -29,7 +31,8 @@
 .link-item:hover {
   transform: translateY(-1px); // ホバー時に少し浮き上がる動きを付ける
   background-color: var(--highlight); // ホバー時の背景色を変更する
-  border-color: var(--secondary); // ホバー時の枠線色を強調色にする
+  color: var(--accent-color); // ホバー時だけ文字色をアクセント色に変える
+  border-color: var(--accent-color); // ホバー時だけ枠線をアクセント色に変える
 }
 
 .link-item .icon {
@@ -48,5 +51,63 @@
   height: 25px; // SVGアイコンの高さを固定する
   display: inline-block; // 文字と一緒に並べても崩れにくくする
   vertical-align: middle; // 文字の中央に近い位置に揃える
+  filter: brightness(0) saturate(100%); // ライトモードではアイコンを濃い単色にして見やすくする
+  opacity: 0.9; // 少しだけ透明にして文字とのコントラストを馴染ませる
+  transition: filter 0.2s ease, opacity 0.2s ease; // テーマ切替時の色変化をなめらかにする
 
+}
+
+.link-item:hover .icon-svg {
+  filter: var(--icon-hover-filter); // ホバー時だけサービスごとのアクセント色に変える
+  opacity: 1; // ホバー時は少しはっきり表示する
+}
+
+.soundcloud-link {
+  --accent-color: #ff6a00; // SoundCloudのアクセント色をオレンジにする
+  --icon-hover-filter: invert(51%) sepia(99%) saturate(1477%) hue-rotate(359deg) brightness(101%) contrast(105%); // SoundCloud向けのオレンジ色に近づける
+}
+
+.x-link {
+  --accent-color: #1da1f2; // XはTwitterに近い水色をアクセント色にする
+  --icon-hover-filter: invert(58%) sepia(97%) saturate(1676%) hue-rotate(176deg) brightness(99%) contrast(91%); // Xアイコンを文字色の水色に近づける
+}
+
+.bluesky-link {
+  --accent-color: #1185fe; // Blueskyのアクセント色を青にする
+  --icon-hover-filter: invert(49%) sepia(92%) saturate(2948%) hue-rotate(201deg) brightness(102%) contrast(99%); // Bluesky向けの青色に近づける
+}
+
+.mail-link {
+  --accent-color: var(--secondary); // メールは文字と枠に専用アクセント色を使わない
+  --icon-hover-filter: invert(51%) sepia(86%) saturate(3523%) hue-rotate(340deg) brightness(103%) contrast(101%); // メールアイコンを文字色の赤に近づける
+}
+
+.mail-link:hover {
+  color: var(--dark); // メールはホバー時も文字色を通常色のままにする
+  border-color: var(--secondary); // メールはホバー時も枠線を通常ホバー色のままにする
+}
+
+[saved-theme="dark"] .link-item .icon-svg {
+  filter: brightness(0) invert(1); // ダークモードではアイコンを明るい単色にして見やすくする
+  opacity: 0.95; // 暗背景での視認性を少し上げる
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([saved-theme="light"]) .link-item .icon-svg {
+    filter: brightness(0) invert(1); // テーマ未固定時はOSのダーク設定に合わせて明色化する
+    opacity: 0.95; // OSテーマ追従時の暗背景でも見やすくする
+  }
+
+}
+
+[saved-theme="dark"] .link-item:hover .icon-svg {
+  filter: var(--icon-hover-filter); // ダークモードでもホバー時はアクセント色を優先する
+  opacity: 1; // ダークモードのホバー時も見やすくする
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([saved-theme="light"]) .link-item:hover .icon-svg {
+    filter: var(--icon-hover-filter); // テーマ未固定でもホバー時はアクセント色を優先する
+    opacity: 1; // テーマ未固定時のホバーでも見やすくする
+  }
 }
