@@ -1,47 +1,52 @@
 @use "./base.scss";
 
 // put your custom CSS here!
-.links-list {
-  display: grid;
-  gap: 0.75rem;
-  margin-top: 1rem;
+
+.link-list {
+  display: grid; // リンク全体をグリッドレイアウトで並べる
+  gap: 0.75rem; // 各リンクカードの上下間隔を設定する
+  margin-top: 1rem; // セクション見出しとの間に余白を作る
+  justify-items: start; // 子要素を左寄せで配置する
 }
 
 .link-item {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.6rem;
+  display: flex; // アイコンと文字を横並びにする
+  align-items: center; // アイコンと文字の縦位置を中央に揃える
+  gap: 0.6rem; // アイコンと文字の間隔を設定する
 
-  width: fit-content;
-  padding: 0.55rem 0.9rem;
-  border: 1px solid var(--lightgray);
-  border-radius: 999px;
+  width: min(100%, 24rem); // 画面幅に応じて最大24remまでの横長ボタンにする
+  padding: 0.65rem 1rem; // ボタン内の上下左右の余白を作る
+  border: 1px solid var(--lightgray); // 枠線の色と太さを指定する
+  border-radius: 10px; // 角を少し丸めた四角形にする
 
-  text-decoration: none;
-  color: var(--dark);
-  background: transparent;
-  transition: transform 0.15s ease, background-color 0.15s ease, border-color 0.15s ease;
+  text-decoration: none; // 下線を消してボタンらしい見た目にする
+  color: var(--dark); // 文字色を通常テーマの本文色に合わせる
+  background: var(--light); // 背景色を通常テーマの明るい色にする
+  font-size: 1.08rem; // 文字サイズを少し大きくして読みやすくする
+  transition: transform 0.15s ease, background-color 0.15s ease, border-color 0.15s ease; // ホバー時の変化をなめらかにする
 }
 
 .link-item:hover {
-  transform: translateY(-1px);
-  background-color: var(--highlight);
-  border-color: var(--secondary);
+  transform: translateY(-1px); // ホバー時に少し浮き上がる動きを付ける
+  background-color: var(--highlight); // ホバー時の背景色を変更する
+  border-color: var(--secondary); // ホバー時の枠線色を強調色にする
 }
 
 .link-item .icon {
-  font-size: 1rem;
-  line-height: 1;
+  font-size: 1rem; // 文字アイコンを使う場合のサイズ
+  line-height: 1; // 行の高さを詰めてアイコンのズレを防ぐ
 }
 
 .link-item .label {
-  font-weight: 600;
-  letter-spacing: 0.01em;
+  font-size: 1.08rem; // ラベル文字を大きくして視認性を上げる
+  font-weight: 600; // 文字をやや太くして読みやすくする
+  letter-spacing: 0.01em; // 文字間をわずかに広げて潰れを防ぐ
 }
 
 .link-item .icon-svg {
-  width: 18px;
-  height: 18px;
-  display: inline-block;
-  vertical-align: middle;
+  width: 25px; // SVGアイコンの横幅を固定する
+  height: 25px; // SVGアイコンの高さを固定する
+  display: inline-block; // 文字と一緒に並べても崩れにくくする
+  vertical-align: middle; // 文字の中央に近い位置に揃える
+
 }
