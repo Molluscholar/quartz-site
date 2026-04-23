@@ -29,11 +29,11 @@ socialImage: og-image.png
 - 2025/05/31 terrarhythm ep.2 
 - 2025/05/23 雑ボカ 〜雑にボカロをかけれる会〜 第23回 
 - 2025/03/29 おお阪 IN DA PARTY!
-- 2025/01/26 Epilepsy symptoms
-- 2025/01/26 咳 -communitytrack-
+- 2025/01/26 [[epilepsy-symptoms|Epilepsy symptoms]]
+- 2025/01/26 [[sekicommutra|咳 -communitytrack-]]
 - 2025/01/21 [[dsaba3|【DTM鯖合作】メルト]]
 - 2024/12/07 ボカロ曲聴きながら食うピザが1番美味い
-- 2024/10/27 Echolocation
+- 2024/10/27 [[echolocation|Echolocation]]
 - 2024/10/11 Testify vol.1 
 - 2024/09/19 雑ボカ 〜雑にボカロをかけれる会〜 第19回
 - 2024/08/10 やめてねボーカロイド
@@ -43,10 +43,10 @@ socialImage: og-image.png
 - 2024/04/03 IntroHope Vol.7
 - 2024/03/15 [[trefoil-grayscaled|trefoil (grayscaled)]]
 - 2024/02/23 [[dsaba2|【DTM鯖合作】ロウワー]]
-- 2024/01/28 2023's VOCALIFE
-- 2024/01/17 NEXTLOID Vol.01
+- 2024/01/28 [[vocalife2023|2023's VOCALIFE]]
+- 2024/01/17 [[nextloid-vol1|NEXTLOID Vol.01]]
 - 2023/12/25 
 [[mmre|【ボカロP八人で】マーシャル・マキシマイザー Remixリレー【合作】]]
-- 2023/12/08 第十四回 創奏音楽祭
-- 2023/10/29 ἤλεκτρον - 汎用式概念 ろさちゃん
+- 2023/12/08 [[sousou-vol14|第十四回 創奏音楽祭]]
+- 2023/10/29 [[electron|ἤλεκτρον - 汎用式概念 ろさちゃん]]
 - 2023/08/05 [[dsaba|【DTM鯖】ダンスロボットダンス【合作】]]
