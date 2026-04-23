@@ -1,5 +1,7 @@
 ---
 title: note
+socialDescription: Molluscholar
+socialImage: og-image.png
 ---
 
 <style>

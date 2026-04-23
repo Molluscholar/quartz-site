@@ -1,5 +1,7 @@
 ---
 title: Home
+socialDescription: Molluscholar
+socialImage: og-image.png
 ---
 
 <style>
