@@ -22,8 +22,8 @@ socialImage: og-image.png
 - 2025/10/26 [[m32025aut|LUXARION Original Soundtrack M3 2025 Autumn Demo）]]
 - 2025/09/27 [[thi]]
 - 2025/08/23 [[dsaba4|CH4NGE / Giga - DTM鯖Remix合作]]
-- 2025/08/20 strega
-- 2025/08/14 hikari (grayscaled)
+- 2025/08/20 [[strega|.｡ﾟ+..𝓼𝓽𝓻𝓮𝓰𝓪｡+..｡*ﾟ+]]
+- 2025/08/14 [[hikari-grayscaled|hikari (grayscaled)]]
 - 2025/07/30 勇の日 M/A/S/S/A/C/R/E
 - 2025/07/21 やめてねボーカロイド2
 - 2025/05/31 terrarhythm ep.2 
@@ -41,12 +41,12 @@ socialImage: og-image.png
 - 2024/05/20 5W1H
 - 2024/04/20 SENSE//SENSE
 - 2024/04/03 IntroHope Vol.7
-- 2024/03/15 trefoil (grayscaled)
+- 2024/03/15 [[trefoil-grayscaled|trefoil (grayscaled)]]
 - 2024/02/23 [[dsaba2|【DTM鯖合作】ロウワー]]
 - 2024/01/28 2023's VOCALIFE
 - 2024/01/17 NEXTLOID Vol.01
 - 2023/12/25 
-【ボカロP八人で】マーシャル・マキシマイザー Remixリレー【合作】
+[[mmre|【ボカロP八人で】マーシャル・マキシマイザー Remixリレー【合作】]]
 - 2023/12/08 第十四回 創奏音楽祭
 - 2023/10/29 ἤλεκτρον - 汎用式概念 ろさちゃん
 - 2023/08/05 [[dsaba|【DTM鯖】ダンスロボットダンス【合作】]]
