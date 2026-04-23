@@ -45,6 +45,8 @@ tags: original, collaborate, remix, DJ/event
 - 2024/02/10 Rapid ERuption vol.1
 - 2024/01/28 2023's VOCALIFE
 - 2024/01/17 NEXTLOID Vol.01
+- 2023/12/25 
+【ボカロP八人で】マーシャル・マキシマイザー Remixリレー【合作】
 - 2023/12/08 第十四回 創奏音楽祭
 - 2023/10/29 ἤλεκτρον - 汎用式概念 ろさちゃん
 - 2023/08/05 【DTM鯖】ダンスロボットダンス【合作】
