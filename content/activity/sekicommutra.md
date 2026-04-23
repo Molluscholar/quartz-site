@@ -4,12 +4,6 @@ title: 咳 -communitytrack-
 tags: Event, Client, Original, Collaborate
 ---
 
-<style>
-.page .center article {
-  font-size: 1.08rem;
-  line-height: 1.8;
-}
-</style>
 
 <br>同人サークル「カゼヒキコンピ準備室」の運営補助、アルバム「咳 -communitytrack-」の企画、運営及びキュレーションを行った</br>
 

@@ -4,13 +4,6 @@ title: Alliél (Molluscholar Remix)
 tags: Client, Remix 
 ---
 
-<style>
-.page .center article {
-  font-size: 1.08rem;
-  line-height: 1.8;
-}
-</style>
-
 <br>THE VOC@LOiD M@STER61 (2025/11/29)　カゼヒキコンピ準備室 /「咳 -Remixes-」収録</br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BXrKqPDTpCg?si=DAs9D2hSmbN1aoHS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

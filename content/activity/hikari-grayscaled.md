@@ -4,13 +4,6 @@ title: hikari (grayscaled)
 tags: Client, Remix 
 ---
 
-<style>
-.page .center article {
-  font-size: 1.08rem;
-  line-height: 1.8;
-}
-</style>
-
 <br>V.A. - amengazer収録</br>
 
 <iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=2641158431/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://mahoushojodisorder2006.bandcamp.com/album/amengazer">amengazer V.A.</a></iframe>

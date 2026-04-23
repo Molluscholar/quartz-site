@@ -4,13 +4,6 @@ title: trefoil (grayscaled)
 tags: Client, Remix 
 ---
 
-<style>
-.page .center article {
-  font-size: 1.08rem;
-  line-height: 1.8;
-}
-</style>
-
 <br>Various Artists - ウンコモチコンピvol.1収録</br>
 
 <iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=3954484979/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://unkomochi.bandcamp.com/album/vol-1">ウンコモチコンピvol.1 Various Artists</a></iframe>

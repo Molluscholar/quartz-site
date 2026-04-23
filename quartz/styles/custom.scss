@@ -162,3 +162,9 @@
     opacity: 1; // テーマ未固定時のホバーでも見やすくする
   }
 }
+
+// ページコンテンツ記事の標準的なテキスト表示設定
+.page .center article {
+  font-size: 1.08rem;
+  line-height: 1.8;
+}

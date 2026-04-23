@@ -4,12 +4,6 @@ title: 臨海, 歯車は詠う
 tags: Personal, Original, Collaborate 
 ---
 
-<style>
-.page .center article {
-  font-size: 1.08rem;
-  line-height: 1.8;
-}
-</style>
 
 <br>ボカロ楽曲匿名投稿イベント 無色透名祭3 参加作品</br>
 <iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb/so45521505" scrolling="no" style="border:solid 1px #ccc;" frameborder="0"><a href="https://www.nicovideo.jp/watch/so45521505">臨海 / 花隈千冬</a></iframe>
