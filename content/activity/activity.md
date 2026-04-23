@@ -1,7 +1,8 @@
 ---
 title: 活動履歴
 
-tags: original, collaborate, remix, DJ/event 
+tags: Original, Collaborate, Remix, DJ/Live, Event 
+socialImage: og-image.png
 ---
 
 <style>
@@ -11,7 +12,7 @@ tags: original, collaborate, remix, DJ/event
 }
 </style>
 
-- 2026/02/17 hyperpicnic
+- 2026/02/17 [[hyperpicnic|✩‧₊𝓱𝔂𝓹𝓮𝓻𝓹𝓲𝓬𝓷𝓲𝓬𖤐˖°.☪︎.]]
 - 2026/02/14 [[unitonic-ex1|uni-tonic ex.1]]
 - 2026/02/03 [[vreax-vol2|VЯEΔX vol.2]]
 - 2025/12/26 Under TwentyFive VOL.12
