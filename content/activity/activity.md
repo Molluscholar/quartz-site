@@ -24,23 +24,23 @@ socialImage: og-image.png
 - 2025/08/23 [[dsaba4|CH4NGE / Giga - DTM鯖Remix合作]]
 - 2025/08/20 [[strega|.｡ﾟ+..𝓼𝓽𝓻𝓮𝓰𝓪｡+..｡*ﾟ+]]
 - 2025/08/14 [[hikari-grayscaled|hikari (grayscaled)]]
-- 2025/07/30 勇の日 M/A/S/S/A/C/R/E
+- 2025/07/30 [[massacre|勇の日 M／A／S／S／A／C／R／E]]
 - 2025/07/21 やめてねボーカロイド2
-- 2025/05/31 terrarhythm ep.2 
-- 2025/05/23 雑ボカ 〜雑にボカロをかけれる会〜 第23回 
-- 2025/03/29 おお阪 IN DA PARTY!
+- 2025/05/31 [[terrarhythm-ep2|terrarhythm ep.2]]
+- 2025/05/23 [[zatsuboka-vol23|雑ボカ 〜雑にボカロをかけれる会〜 第23回]]
+- 2025/03/29 [[oosaksafun|おお阪 IN DA PARTY!]]
 - 2025/01/26 [[epilepsy-symptoms|Epilepsy symptoms]]
 - 2025/01/26 [[sekicommutra|咳 -communitytrack-]]
 - 2025/01/21 [[dsaba3|【DTM鯖合作】メルト]]
-- 2024/12/07 ボカロ曲聴きながら食うピザが1番美味い
+- 2024/12/07 [[bokapizza24|ボカロ曲聴きながら食うピザが1番美味い]]
 - 2024/10/27 [[echolocation|Echolocation]]
-- 2024/10/11 Testify vol.1 
-- 2024/09/19 雑ボカ 〜雑にボカロをかけれる会〜 第19回
+- 2024/10/11 [[testify-vol1|Testify vol.1]]
+- 2024/09/19 [[zatsuboka-vol19|雑ボカ 〜雑にボカロをかけれる会〜 第19回]]
 - 2024/08/10 やめてねボーカロイド
-- 2024/06/21 Under TwentyFive VOL.3
-- 2024/05/20 5W1H
-- 2024/04/20 SENSE//SENSE
-- 2024/04/03 IntroHope Vol.7
+- 2024/06/21 [[utf-vol3|Under TwentyFive VOL.3]]
+- 2024/05/20 [[5w1h|5W1H]]
+- 2024/04/20 [[sensevr|SENSE／／SENSE]]
+- 2024/04/03 [[introhope-vol7|IntroHope Vol.7]]
 - 2024/03/15 [[trefoil-grayscaled|trefoil (grayscaled)]]
 - 2024/02/23 [[dsaba2|【DTM鯖合作】ロウワー]]
 - 2024/01/28 [[vocalife2023|2023's VOCALIFE]]
