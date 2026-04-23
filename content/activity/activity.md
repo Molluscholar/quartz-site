@@ -15,8 +15,8 @@ socialImage: og-image.png
 - 2026/02/17 [[hyperpicnic|✩‧₊𝓱𝔂𝓹𝓮𝓻𝓹𝓲𝓬𝓷𝓲𝓬𖤐˖°.☪︎.]]
 - 2026/02/14 [[unitonic-ex1|uni-tonic ex.1]]
 - 2026/02/03 [[vreax-vol2|VЯEΔX vol.2]]
-- 2025/12/26 Under TwentyFive VOL.12
-- 2025/12/13 激†NERD
+- 2025/12/26 [[utf-vol12.md|Under TwentyFive VOL.12]]
+- 2025/12/13 [[gekinerd|激†NERD]]
 - 2025/11/29 Alliél (MolluscholarRemix)
 - 2025/11/21 臨海, 歯車は詠う
 - 2025/10/26 LUXARION Original Soundtrack M3 2025 Autumn Demo）
