@@ -1,8 +1,15 @@
 ---
 title: 臨海, 歯車は詠う
 
-tags: Collaborate 
+tags: Personal, Original, Collaborate 
 ---
+
+<style>
+.page .center article {
+  font-size: 1.08rem;
+  line-height: 1.8;
+}
+</style>
 
 <br>ボカロ楽曲匿名投稿イベント 無色透名祭3 参加作品</br>
 

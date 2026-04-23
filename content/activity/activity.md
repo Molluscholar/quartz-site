@@ -1,7 +1,7 @@
 ---
 title: 活動履歴
 
-tags: Original, Collaborate, Remix, DJ/Live, Event 
+tags: Client, Personal, Original, Collaborate, Remix, DJ/Live, Event 
 socialImage: og-image.png
 ---
 
@@ -19,8 +19,8 @@ socialImage: og-image.png
 - 2025/12/13 [[gekinerd|激†NERD]]
 - 2025/11/29 [[alliel-remix|Alliél (Molluscholar Remix)]]
 - 2025/11/21 [[mushoku3|臨海, 歯車は詠う]]
-- 2025/10/26 LUXARION Original Soundtrack M3 2025 Autumn Demo）
-- 2025/09/27 thi
+- 2025/10/26 [[m32025aut|LUXARION Original Soundtrack M3 2025 Autumn Demo）]]
+- 2025/09/27 [[thi]]
 - 2025/08/23 CH4NGE / Giga - DTM鯖Remix合作
 - 2025/08/20 strega
 - 2025/08/14 hikari (grayscaled)
@@ -43,7 +43,6 @@ socialImage: og-image.png
 - 2024/04/03 IntroHope Vol.7
 - 2024/03/15 trefoil (grayscaled)
 - 2024/02/23 【DTM鯖合作】ロウワー
-- 2024/02/10 Rapid ERuption vol.1
 - 2024/01/28 2023's VOCALIFE
 - 2024/01/17 NEXTLOID Vol.01
 - 2023/12/25 

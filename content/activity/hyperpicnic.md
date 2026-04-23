@@ -1,7 +1,7 @@
 ---
 title: ✩‧₊𝓱𝔂𝓹𝓮𝓻𝓹𝓲𝓬𝓷𝓲𝓬𖤐˖°.☪︎.
 
-tags: Collaborate 
+tags: Personal, Original, Collaborate 
 socialImage: og-image.png
 ---
 
