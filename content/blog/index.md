@@ -1,7 +1,7 @@
 ---
 title: note
 socialDescription: molluscholar.dev
-socialImage: og-image.png
+socialImage: iconmoll.png
 ---
 
 <style>
