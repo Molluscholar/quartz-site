@@ -1,6 +1,6 @@
 ---
 title: note
-socialDescription: Molluscholar
+socialDescription: molluscholar.dev
 socialImage: og-image.png
 ---
 
