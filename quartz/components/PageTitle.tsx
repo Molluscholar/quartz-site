@@ -22,15 +22,23 @@ PageTitle.css = `
   margin: 0;
   font-family: var(--titleFont);
   position: fixed;
-  top: 1rem;
-  left: max(1rem, calc((100vw - 1500px) / 2 + 2rem));
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100vw;
   z-index: 50;
+  min-height: 5.75rem;
+  padding: 0.6rem 0;
+  background: var(--light);
+  display: flex;
+  align-items: center;
 }
 
 .page-title-link {
   display: inline-flex;
   align-items: center;
   text-decoration: none;
+  margin-left: max(1rem, calc((100vw - 1500px) / 2 + 2rem));
 }
 
 .page-title-logo {
@@ -42,8 +50,8 @@ PageTitle.css = `
 }
 
 @media all and (max-width: 1199px) {
-  .page-title {
-    left: 1rem;
+  .page-title-link {
+    margin-left: 1rem;
   }
 
   .page-title-logo {
@@ -53,8 +61,12 @@ PageTitle.css = `
 
 @media all and (max-width: 800px) {
   .page-title {
-    top: 0.75rem;
-    left: 0.75rem;
+    min-height: 4.7rem;
+    padding: 0.45rem 0;
+  }
+
+  .page-title-link {
+    margin-left: 0.75rem;
   }
 
   .page-title-logo {

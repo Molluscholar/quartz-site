@@ -4,18 +4,26 @@
 
 // PageTitle以外のレイアウト位置をここで一括管理する
 // 左右サイドバーと中央カラムを、基準値から同じ量だけ下げる
+.page > #quartz-body {
+  --content-start-offset: 6.9rem;
+}
+
 .page > #quartz-body .sidebar.left,
 .page > #quartz-body .sidebar.right {
-  padding-top: 7.25rem;
+  padding-top: var(--content-start-offset);
 }
 
 .page > #quartz-body .page-header {
-  margin-top: 7.25rem;
+  margin-top: var(--content-start-offset);
 }
 
 @media all and (max-width: 1199px) {
+  .page > #quartz-body {
+    --content-start-offset: 6.35rem;
+  }
+
   .page > #quartz-body .sidebar.left {
-    padding-top: 6.75rem;
+    padding-top: var(--content-start-offset);
   }
 
   .page > #quartz-body .sidebar.right {
@@ -23,13 +31,17 @@
   }
 
   .page > #quartz-body .page-header {
-    margin-top: 6.75rem;
+    margin-top: var(--content-start-offset);
   }
 }
 
 @media all and (max-width: 800px) {
+  .page > #quartz-body {
+    --content-start-offset: 4.95rem;
+  }
+
   .page > #quartz-body .sidebar.left {
-    padding-top: 2.9rem;
+    padding-top: var(--content-start-offset);
   }
 
   .page > #quartz-body .sidebar.right {
@@ -37,7 +49,7 @@
   }
 
   .page > #quartz-body .page-header {
-    margin-top: 0.9rem;
+    margin-top: var(--content-start-offset);
   }
 }
 
