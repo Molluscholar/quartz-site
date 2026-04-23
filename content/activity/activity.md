@@ -17,8 +17,8 @@ socialImage: og-image.png
 - 2026/02/03 [[vreax-vol2|VЯEΔX vol.2]]
 - 2025/12/26 [[utf-vol12.md|Under TwentyFive VOL.12]]
 - 2025/12/13 [[gekinerd|激†NERD]]
-- 2025/11/29 Alliél (MolluscholarRemix)
-- 2025/11/21 臨海, 歯車は詠う
+- 2025/11/29 [[alliel-remix|Alliél (Molluscholar Remix)]]
+- 2025/11/21 [[mushoku3|臨海, 歯車は詠う]]
 - 2025/10/26 LUXARION Original Soundtrack M3 2025 Autumn Demo）
 - 2025/09/27 thi
 - 2025/08/23 CH4NGE / Giga - DTM鯖Remix合作
