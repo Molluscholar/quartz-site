@@ -25,7 +25,7 @@ socialImage: og-image.png
 - 2025/08/20 [[strega|.｡ﾟ+..𝓼𝓽𝓻𝓮𝓰𝓪｡+..｡*ﾟ+]]
 - 2025/08/14 [[hikari-grayscaled|hikari (grayscaled)]]
 - 2025/07/30 [[massacre|勇の日 M／A／S／S／A／C／R／E]]
-- 2025/07/21 やめてねボーカロイド2
+- 2025/07/21 [[yamevoca2|やめてねボーカロイド2]]
 - 2025/05/31 [[terrarhythm-ep2|terrarhythm ep.2]]
 - 2025/05/23 [[zatsuboka-vol23|雑ボカ 〜雑にボカロをかけれる会〜 第23回]]
 - 2025/03/29 [[oosaksafun|おお阪 IN DA PARTY!]]
@@ -36,7 +36,7 @@ socialImage: og-image.png
 - 2024/10/27 [[echolocation|Echolocation]]
 - 2024/10/11 [[testify-vol1|Testify vol.1]]
 - 2024/09/19 [[zatsuboka-vol19|雑ボカ 〜雑にボカロをかけれる会〜 第19回]]
-- 2024/08/10 やめてねボーカロイド
+- 2024/08/10 [[yamevoca|やめてねボーカロイド]]
 - 2024/06/21 [[utf-vol3|Under TwentyFive VOL.3]]
 - 2024/05/20 [[5w1h|5W1H]]
 - 2024/04/20 [[sensevr|SENSE／／SENSE]]
