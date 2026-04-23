@@ -11,7 +11,7 @@ title: Home
 
 # About
 
-- [[Molluscholar]]（なんたいどうぶつ）
+- [[activity|Molluscholar]]（なんたいどうぶつ）
 
 # Links
 <div class="link-list">

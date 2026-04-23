@@ -1,5 +1,7 @@
 ---
 title: 活動履歴
+
+tags: original, collaborate, remix, DJ/event 
 ---
 
 <style>
@@ -10,8 +12,8 @@ title: 活動履歴
 </style>
 
 - 2026/02/17 hyperpicnic
-- 2026/02/14 uni-tonic_ex.1
-- 2026/02/03 VЯEΔX vol.2
+- 2026/02/14 [[unitonic-ex1|uni-tonic ex.1]]
+- 2026/02/03 [[vreax-vol2|VЯEΔX vol.2]]
 - 2025/12/26 Under TwentyFive VOL.12
 - 2025/12/13 激†NERD
 - 2025/11/29 Alliél (MolluscholarRemix)
