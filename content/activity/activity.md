@@ -21,7 +21,7 @@ socialImage: og-image.png
 - 2025/11/21 [[mushoku3|臨海, 歯車は詠う]]
 - 2025/10/26 [[m32025aut|LUXARION Original Soundtrack M3 2025 Autumn Demo）]]
 - 2025/09/27 [[thi]]
-- 2025/08/23 CH4NGE / Giga - DTM鯖Remix合作
+- 2025/08/23 [[dsaba4|CH4NGE / Giga - DTM鯖Remix合作]]
 - 2025/08/20 strega
 - 2025/08/14 hikari (grayscaled)
 - 2025/07/30 勇の日 M/A/S/S/A/C/R/E
@@ -31,7 +31,7 @@ socialImage: og-image.png
 - 2025/03/29 おお阪 IN DA PARTY!
 - 2025/01/26 Epilepsy symptoms
 - 2025/01/26 咳 -communitytrack-
-- 2025/01/21 【DTM鯖合作】メルト
+- 2025/01/21 [[dsaba3|【DTM鯖合作】メルト]]
 - 2024/12/07 ボカロ曲聴きながら食うピザが1番美味い
 - 2024/10/27 Echolocation
 - 2024/10/11 Testify vol.1 
@@ -42,11 +42,11 @@ socialImage: og-image.png
 - 2024/04/20 SENSE//SENSE
 - 2024/04/03 IntroHope Vol.7
 - 2024/03/15 trefoil (grayscaled)
-- 2024/02/23 【DTM鯖合作】ロウワー
+- 2024/02/23 [[dsaba2|【DTM鯖合作】ロウワー]]
 - 2024/01/28 2023's VOCALIFE
 - 2024/01/17 NEXTLOID Vol.01
 - 2023/12/25 
 【ボカロP八人で】マーシャル・マキシマイザー Remixリレー【合作】
 - 2023/12/08 第十四回 創奏音楽祭
 - 2023/10/29 ἤλεκτρον - 汎用式概念 ろさちゃん
-- 2023/08/05 【DTM鯖】ダンスロボットダンス【合作】
+- 2023/08/05 [[dsaba|【DTM鯖】ダンスロボットダンス【合作】]]
