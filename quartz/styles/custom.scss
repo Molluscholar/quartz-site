@@ -65,7 +65,7 @@
   align-items: center; // アイコンと文字の縦位置を中央に揃える
   gap: 0.6rem; // アイコンと文字の間隔を設定する
 
-  width: min(100%, 24rem); // 画面幅に応じて最大24remまでの横長ボタンにする
+  width: min(100%, 20rem); // 画面幅に応じて最大20remまでの横長ボタンにする
   padding: 0.65rem 1rem; // ボタン内の上下左右の余白を作る
   border: 1px solid var(--lightgray); // 枠線の色と太さを指定する
   border-radius: 10px; // 角を少し丸めた四角形にする
