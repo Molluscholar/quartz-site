@@ -7,7 +7,7 @@ socialImage: og-image.png
 
 - 2026/02/17 [[hyperpicnic|✩‧₊𝓱𝔂𝓹𝓮𝓻𝓹𝓲𝓬𝓷𝓲𝓬𖤐˖°.☪︎.]]
 - 2026/02/14 [[unitonic-ex1|uni-tonic ex.1]]
-- 2026/02/03 [[vreax-vol2|VЯEΔX vol.2]]
+- 2026/02/13 [[vreax-vol2|VЯEΔX vol.2]]
 - 2025/12/26 [[utf-vol12.md|Under TwentyFive VOL.12]]
 - 2025/12/13 [[gekinerd|激†NERD]]
 - 2025/11/29 [[alliel-remix|Alliél (Molluscholar Remix)]]
