@@ -58,7 +58,7 @@ socialImage: iconmoll.png
 
 # Contact
 
-E-Mail or DM (X, Bluesky)
+E-Mail or DM (X, Instagram, Bluesky)
 <div class="link-list">
   <a class="link-item mail-link"
     href="mailto:contact@molluscholar.dev" target="_blank" rel="noopener noreferrer">
