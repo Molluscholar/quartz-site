@@ -32,6 +32,17 @@ socialImage: iconmoll.png
     />
     <span class="label">X</span>
     </a>
+    <a class="link-item instagram-link"
+    href="https://www.instagram.com/molluscholar/" target="_blank" rel="noopener noreferrer">
+     <img
+      class="icon-svg"
+      src="./assets/icons/instagram.svg"
+      alt="Instagram"
+      width="18"
+      height="18"
+    />
+    <span class="label">Instagram</span>
+    </a>
     <a class="link-item bluesky-link"
     href="https://bsky.app/profile/molluscholar.dev" target="_blank" rel="noopener noreferrer">
      <img

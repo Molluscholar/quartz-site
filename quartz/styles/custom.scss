@@ -123,6 +123,11 @@
   --icon-hover-filter: invert(58%) sepia(97%) saturate(1676%) hue-rotate(176deg) brightness(99%) contrast(91%); // Xアイコンを文字色の水色に近づける
 }
 
+.instagram-link {
+  --accent-color: #e1306c; // Instagramのアクセント色をピンクにする
+  --icon-hover-filter: invert(27%) sepia(91%) saturate(2465%) hue-rotate(320deg) brightness(94%) contrast(88%); // Instagramアイコンをピンク色に近づける
+}
+
 .bluesky-link {
   --accent-color: #1185fe; // Blueskyのアクセント色を青にする
   --icon-hover-filter: invert(49%) sepia(92%) saturate(2948%) hue-rotate(201deg) brightness(102%) contrast(99%); // Bluesky向けの青色に近づける
