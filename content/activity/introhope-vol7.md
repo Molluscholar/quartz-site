@@ -1,6 +1,7 @@
 ---
 title: IntroHope Vol.7
 
+date: 2024-04-03
 tags: DJ/Live
 ---
 

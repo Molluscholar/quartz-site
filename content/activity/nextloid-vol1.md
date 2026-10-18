@@ -1,6 +1,7 @@
 ---
 title: NEXTLOID Vol.01
 
+date: 2024-01-28
 tags: DJ/Live
 socialImage: og-image.png
 ---

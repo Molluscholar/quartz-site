@@ -2,7 +2,7 @@
 title: 活動履歴
 
 tags: Client, Personal, Original, Collaborate, Remix, DJ/Live, Event 
-socialImage: og-image.png
+socialImage: iconmoll.png
 ---
 
 - 2026/02/17 [[hyperpicnic|✩‧₊𝓱𝔂𝓹𝓮𝓻𝓹𝓲𝓬𝓷𝓲𝓬𖤐˖°.☪︎.]]

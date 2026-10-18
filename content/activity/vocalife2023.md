@@ -1,6 +1,7 @@
 ---
 title: 2023's VOCALIFE
 
+date: 2024-01-28
 tags: DJ/Live
 ---
 
