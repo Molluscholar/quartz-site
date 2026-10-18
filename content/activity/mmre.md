@@ -1,6 +1,7 @@
 ---
 title: 【ボカロP八人で】マーシャル・マキシマイザー Remixリレー【合作】
 
+date: 2023-12-25
 tags: Personal, Remix, Collaborate 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: 【DTM鯖】ダンスロボットダンス【合作】
 
+date: 2023-08-05
 tags: Personal, Remix, Collaborate 
 ---
 

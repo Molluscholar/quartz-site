@@ -1,6 +1,7 @@
 ---
 title: 第十四回 創奏音楽祭
 
+date: 2023-12-08
 tags: DJ/Live
 ---
 

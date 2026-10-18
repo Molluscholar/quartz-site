@@ -1,6 +1,7 @@
 ---
 title: ἤλεκτρον - 汎用式概念 ろさちゃん
 
+date: 2023-10-29
 tags: Personal, Original
 ---
 
